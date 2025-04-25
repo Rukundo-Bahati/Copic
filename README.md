@@ -1,4 +1,9 @@
 <h1>COPIC</h1>
+<br>
+
+![copic](https://github.com/user-attachments/assets/89cad59f-4111-4f98-8b41-b2e6cb7b43d3)
+
+<br>
 <p>Copic backend is the server-side application for Copic, a social media platform tailored specifically for photographers and their admirers.</p>
 <p>Photographers can showcase their portfolios, share their work, and connect with potential clients interested in hiring them. </p>
 <p>This backend handles all the critical functions such as user authentication, post management, and messaging between photographers and clients.</p>
